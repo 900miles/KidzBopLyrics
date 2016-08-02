@@ -1,0 +1,11 @@
+.diff_sub {
+  background: #f77;
+}
+
+.diff_add {
+  background: #0f7;
+}
+
+.diff_chg {
+  background: #ff7;
+}
